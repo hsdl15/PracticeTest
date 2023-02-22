@@ -1,6 +1,7 @@
 def work():
     a = [0]*6
     a[0] = "陈昶旭"
+    a[20 = ""
     return a
 
 
